@@ -19,3 +19,9 @@ Indice:
 
 1- Inicio
 2- Glosario
+
+Objetivos Futuros:
+
+Organizar mejor mi tiempo para poder cumplir con todos los aspectos de una manera mucho más rápida
+Investigación: Exponer todas mis dudas al maestro para tener una mejor comprensión inmediata de lso temas a tratar
+Propósito: Ser mucho más rápido y versátil a la hora de trabajar

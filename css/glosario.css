@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    font-family: 'Georama', sans-serif;
+    color: black;
+}
+
+p{
+    padding: 2em;
+    padding-left: 2em;
+}
+section{
+    padding: 2em;
+}
+
+.inicio{
+    color: white;
+}

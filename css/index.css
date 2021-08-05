@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    font-family: 'Georama', sans-serif;
+}
+
+
+
+
+
+section{
+    max-width: 1900px; 
+    height:390px;
+    padding-top: 13em;
+    background-image: url(do.jpg);
+    background-size: 100%;
+    background-repeat: repeat-y;
+    
+    min-width: 375px;
+    min-height: 300px;
+}
+
+
+h2{
+
+    margin: 0.1em auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #DBDBDB;
+    
+    font-size: 3.2vw
+}
+
+.correo{
+    display:block;
+    color: #DBDBDB;
+font-family: 'Georama', sans-serif;
+    width:9em;
+    height: 1em;
+    margin:auto;
+    text-decoration: none;
+    padding: 0.6em;
+    border-radius: 1em;
+    margin-top: 0.6em;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    border-radius: 2em;
+  background-image: -webkit-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: -moz-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: -o-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+    
+
+}
+
+.correo:hover{
+      box-shadow: 0em 0em 5em 0em #260273 inset;
+    
+
+}
+
+
+    
+.correo:link{
+    color: white;
+    font-family: monospace;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.correo:visited{
+    color: white;
+    font-family: monospace;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+
+
+
+
+
+

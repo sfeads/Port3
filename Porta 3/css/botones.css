@@ -1,0 +1,100 @@
+
+*{
+    color: #E5E5E5;
+    margin: 0px;
+}
+
+.nav{
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+
+    justify-content: space-between;
+    margin: auto 3vw;
+     border-radius: 2em;
+    text-align: center;
+  background-image: -webkit-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: -moz-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: -o-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+    font-family: 'Georama', sans-serif;
+
+    min-width: 7.9em;  
+    max-height: 5.1em;
+    font-size: 1.2vw;
+}
+
+.nav:hover{
+    box-shadow: 0 0 5em 0em #260273 inset;
+}
+
+.glosario{
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+   ;
+    justify-content: space-between;
+    margin: auto 3vw;
+     border-radius: 2em;
+    text-align: center;
+  background-image: -webkit-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: -moz-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: -o-linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+background-image: linear-gradient(0deg, #260273 0%, #0d0d0d 59%);
+    font-family: 'Georama', sans-serif;
+    
+
+    min-width: 2vw;
+    font-size: 1.2vw;
+
+}
+
+.glosario:hover{
+    box-shadow: 0 0 5em 0em #260273 inset;
+}
+
+
+
+
+header{
+background-image: -webkit-linear-gradient(135deg, #260273 0%, #0d0d0d 51%);
+background-image: -moz-linear-gradient(135deg, #260273 0%, #0d0d0d 51%);
+background-image: -o-linear-gradient(135deg, #260273 0%, #0d0d0d 51%);
+background-image: linear-gradient(135deg, #260273 0%, #0d0d0d 51%);
+
+
+
+
+    max-width: 1900px;
+    height: vw; 
+    
+    
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between
+        }
+
+.logo{
+    
+    font-size: 2vw;
+    font-family: 'Roboto', sans-serif;
+    color: #DBDBDB;
+    margin: 20px;
+}
+
+li a:link{
+ display:block;
+    width:6em;
+    height: 1.5em;
+    margin:auto;
+    text-decoration: none;
+    padding: 0.5em 0.5em 0.5em ;
+    margin-top: ; 
+    font-family: monospace;
+    color: white;
+    font-size: 1.3em;
+    
+}
+
+.inicio{
+    list-style: none;
+    display: flex;
+    flex-direction: row;    
+    
+}

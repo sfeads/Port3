@@ -36,12 +36,10 @@
 
 ------------
 
-# Splash 01
+# Inicio
 
-###### En esta actividad debíamos de replicar el wireframe splash de School ERP
-
-![image](https://user-images.githubusercontent.com/79545684/136429544-f128532b-1102-48b7-adf4-9ebccbab3f9c.png)
-###### Link directo: https://sfeads.github.io/Soporte-Des/
+![image](https://user-images.githubusercontent.com/79545684/136825018-3a2223ff-2800-4fb6-b038-b46cf408f7e0.png)
+###### Link directo: https://sfeads.github.io/Port3/
 
 
 ------------
@@ -49,30 +47,17 @@
 
 ------------
 
-# Login No.1
-
-###### En esta actividad debíamos de replicar el wireframe Login 01 de School ERP
+# Glosario
 
 
-![image](https://user-images.githubusercontent.com/79545684/136429745-b2140ee0-3a45-4f14-8966-05cb09535abb.png)
-###### Link directo: https://sfeads.github.io/Soporte-Des/login.html
+![image](https://user-images.githubusercontent.com/79545684/136825094-76a90c10-c028-4ac0-9569-391d47ab70d8.png)
+###### Link directo: https://sfeads.github.io/Port3/glosario.html
 
 ------------
 
 
 ------------
 
-# Login No.2
-
-###### En esta actividad debíamos de replicar el wireframe Login 02 de School ERP
-
-![image](https://user-images.githubusercontent.com/79545684/136431470-58ef703d-60ca-42b2-b3ef-fa049f178b0f.png)
-###### Link directo: https://sfeads.github.io/Soporte-Des/login2.html
-
-------------
-
-
-------------
 
 # Objetivos Futuros
 | Organización  |  Investigación | Propósito |
